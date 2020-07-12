@@ -1,0 +1,10 @@
+> Instalar o node.js, ele ja vem instalado por padrão o npm que vamos utilizar para instalação dos pacotes.   
+> Verificar se foi instalado corretamente dando node-v e npm-v
+> Se ocorreu tudo certo, instalar o gulp globalmente usando o comando npm install --global gulp-cli
+> Verificar novamente se foi instalado dando gulp-v
+> Criar uma pasta para criação do projeto no lugar desejado
+> Após a criação da pasta da npm init -y ele ira criar o package.json com as informações do seu projeto
+> E rodar o comando npm install gulp browser-sync gulp-sass --save-dev, esse comando ira salvar o pacote como dependencias em desenvolvimento.
+> Apos instalar os pacotes iremos instalar o Bootstrap e seus pacotes dando npm install bootstrap jquery popper.js --save
+> Criar index.html, GuilFile.js e o styles.scss
+> Dar o comando gulp no terminal 
